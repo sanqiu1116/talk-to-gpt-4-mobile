@@ -1,13 +1,16 @@
 // ==UserScript==
-// @name         Let's talk to GPT-4
+// @name         Talk to GPT-4 Mobile
+// @name:zh-CN   与 GPT-4 移动版畅聊
 // @namespace    https://github.com/Unintendedz/talk-to-gpt-4-mobile
 // @version      0.1
-// @description  Enabling unlimited conversations with the GPT-4-mobile model via a userscript.
+// @description  Enabling unlimited conversations with the gpt-4-mobile model via a userscript.
+// @description:zh-CN 通过油猴脚本来与 gpt-4-mobile 模型进行对话（没有每3小时25条的限制）。
 // @author       Unintendedz
 // @match        https://chat.openai.com/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
+
 
 
 (function() {
