@@ -9,6 +9,7 @@
 // @match        https://chat.openai.com/*
 // @grant        none
 // @run-at       document-idle
+// @license      WTFPL
 // ==/UserScript==
 
 
